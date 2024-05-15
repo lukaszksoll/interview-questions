@@ -47,6 +47,7 @@
 ## Ewaluacja
 - Jak wygląda proces oceniania efektywności pracownika? Jakie wskaźniki brane są pod uwagę przy premii/awansie na stanowisku, na które aplikuję?
 - Jak często przeprowadzane są rozmowy podsumowujące wyniki pracy i w jakim stopniu przekładają się one na plan rozwoju pracownika?
+- Jak wygląda system premiowy w Państwa firmie?
 
 ## Rekrutacja
 - Kiedy można spodziewać się informacji zwrotnej?
