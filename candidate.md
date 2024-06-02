@@ -9,7 +9,8 @@
 - Jak wygląda proces komunikacji w projekcie/firmie? Czy przeważa komunikacja mailowa czy via Teams?
 
 ## Zespół
-- Jaki jest skład zespołu? Jakie są odpowiedzialności poszczególnych osób?
+- Jaki jest skład zespołu?
+- Jakie są odpowiedzialności poszczególnych osób?
 - Jakie jest seniority zespołowe?
 - Ile jest QA w zespole?
 - Jaka jest rotacja w zespole? Jakie są plany na zespół?
@@ -29,16 +30,19 @@
 - Jak wygląda system transferu wiedzy domenowej/technicznej w projekcie?
 - Jak wiele spotkań projektowych odbywa się w tygodniu?
 - Jaka jest rotacja pracowników w projekcie?
+- Jak wygląda proces w sytuacjach kryzysowych? Czy stosuje się podejście "rzucamy wszystko i naprawiamy"?
 
 ## Technikalia
-- Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git)
+- Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git, SonarQube, NDepend)
 - Jakie biblioteki wykorzystuje projekt? (Kontrolki, testy, mvvm, IoC)
+- Jakie są ogólne konwencje kodowania w projekcie?
 - Jak wygląda struktura testów w projekcie? Jak wygląda piramida testów?
 - Czy są w projekcie wykorzystywane UI testy?
 - Jak w projekcie zarządza się długiem technicznym? Czy w ramach sprintu jest przydział np. 20% zadań na code maintenance?
 - Jak wygląda proces code review?
 - Jak zorganizowany jest CI/CD?
-- Jak dużą autonomię mają developerzy wobec zmian w projekcie?
+- Jak dużą autonomię mają developerzy wobec zmian w projekcie? Jak wyglądałaby potencjalna istotna zmiana w projekcie? Z iloma osobami/z jakiego szczebla musiałbym się skomunikować?
+- Jak wygląda dokumentacja projektowa? Jak udkomentowany jest kod programu?
 
 ## System pracy
 - W jakich godzinach odbywa się daily?
@@ -54,16 +58,21 @@
 
 ## Firma
 - Jakie są możliwości rozwoju?
-- Jakie przysługują benefity? Pakiet zdrowotny? Dodatkowe dni urlopu?
+- Jakie przysługują benefity? Pakiet zdrowotny? Dodatkowe dni urlopu? Dofinansowania do pracy zdalnej?
 - Czy przysługują mi dofinansowania do sprzętu?
 - Jaki sprzęt otrzymam do codziennej pracy? (Słuchawki, laptop, peryferia)
 - Jakich firma ma klientów? Czy są to klienci z zagranicy i jaka jest ich część?
 - Jak dużymi projektami zajmuje się Pańska firma (np. wielkość zespołów, liczba użytkowników, obsługiwany ruch)?
+- Jakie są największe zalety pracy w tej firmie?
+- Jak często trzeba pojawić się w biurze?
+- Jak wygląda proces obsługi problemów sprzętowych w przypadku pracy zdalnej?
+- Jakie jest podejście do dłuższych urlopów? Bezpłatnych urlopów?
 
 ## Ewaluacja
 - Jak wygląda proces oceniania efektywności pracownika? Jakie wskaźniki brane są pod uwagę przy premii/awansie na stanowisku, na które aplikuję?
 - Jak często przeprowadzane są rozmowy podsumowujące wyniki pracy i w jakim stopniu przekładają się one na plan rozwoju pracownika?
 - Jak wygląda system premiowy w Państwa firmie?
+- Czy są przeprowadzane spotkania 1:1 z managerem?
 
 ## Rekrutacja
 - Kiedy można spodziewać się informacji zwrotnej?
