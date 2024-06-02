@@ -6,6 +6,7 @@
 - Jak wyglądają Scrum meetingi? Czy odbywają się sesje planowania, estymacji, retrospektywy?
 - Jakie narzędzia są wykorzystywane do zarządzania projektem?
 - Jak wygląda typowy dzień/tydzień pracy na tym stanowisku w tym projekcie?
+- Jak wygląda proces komunikacji w projekcie/firmie? Czy przeważa komunikacja mailowa czy via Teams?
 
 ## Zespół
 - Jaki jest skład zespołu? Jakie są odpowiedzialności poszczególnych osób?
@@ -15,15 +16,29 @@
 - Proszę mi opowiedzieć o moim przyszłym zespole — np. z jakimi działami najbliżej współpracuje, czy będzie dalej rozwijany, jaki jest przewidywany czas trwania projektu?
 - Rodzaj pierwszej podpisywanej umowy? Czy jest to umowa na czas określony? Kiedy następuje podpisanie umowy na czas nieokreślony?
 - Jak wygląda okres wdrożenia na stanowisko?
+- Jak wygląda proces mentoringu młodszych stażem lub nowych członków zespołu?
 
 ## Projekt
-- Proszę mi opisać projekt, który będę poedejmował. (domena, technologie, ci/cd)
+- Proszę mi opisać projekt, który będę podejmował. (domena, technologie, ci/cd)
 - Z czego wynika wakat na tym stanowisku? Z czego wynika rekrutacja na to stanowisko? Czy wynika to z chęci tymczasowego zastąpienia poprzedniego programisty?
 - Jakich wyzwań mogę się spodziewać na tym stanowisku? Jakie są oczekiwania wobec mojej osoby w projekcie?
+- W jaki sposób klienci wykorzystują rozwijane narzędzie?
 - Jakie są możliwe ścieżki kariery na tym stanowisku?
 - Na jakie technologie stawia firma pod kątem tego projektu?
 - Z jakimi trudnościami obecnie zmaga się zespół w projekcie?
 - Jak wygląda system transferu wiedzy domenowej/technicznej w projekcie?
+- Jak wiele spotkań projektowych odbywa się w tygodniu?
+- Jaka jest rotacja pracowników w projekcie?
+
+## Technikalia
+- Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git)
+- Jakie biblioteki wykorzystuje projekt? (Kontrolki, testy, mvvm, IoC)
+- Jak wygląda struktura testów w projekcie? Jak wygląda piramida testów?
+- Czy są w projekcie wykorzystywane UI testy?
+- Jak w projekcie zarządza się długiem technicznym? Czy w ramach sprintu jest przydział np. 20% zadań na code maintenance?
+- Jak wygląda proces code review?
+- Jak zorganizowany jest CI/CD?
+- Jak dużą autonomię mają developerzy wobec zmian w projekcie?
 
 ## System pracy
 - W jakich godzinach odbywa się daily?
@@ -33,14 +48,15 @@
 - Jak wygląda sytuacja z kosztami autorskimi w Państwa firmie?
 - Czy jest możliwość przepisania części urlopu od byłego pracodawcy?
 - W jakim modelu pracuje mój zespół? Zdalnie, hybrydowo czy stacjonarnie? Jak wygląda kwestia rozliczeń delegacji?
-- Jakie firma ma opracowane sposoby/narzędzia radzenia sobie z opóźnieniami w projekcie? Czy i jak firma unika nadgodzin.
+- Jakie firma ma opracowane sposoby/narzędzia radzenia sobie z opóźnieniami w projekcie?
+- Czy i jak firma unika nadgodzin?
 - Jak wygląda możliwość zmiany projektu?
 
 ## Firma
 - Jakie są możliwości rozwoju?
-- Jakie przysługują benefity? Pakiet zdrowotny?
+- Jakie przysługują benefity? Pakiet zdrowotny? Dodatkowe dni urlopu?
 - Czy przysługują mi dofinansowania do sprzętu?
-- Jaki sprzęt otrzymasz do codziennej pracy?
+- Jaki sprzęt otrzymam do codziennej pracy? (Słuchawki, laptop, peryferia)
 - Jakich firma ma klientów? Czy są to klienci z zagranicy i jaka jest ich część?
 - Jak dużymi projektami zajmuje się Pańska firma (np. wielkość zespołów, liczba użytkowników, obsługiwany ruch)?
 
