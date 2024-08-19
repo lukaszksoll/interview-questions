@@ -20,7 +20,7 @@
 - Jak wygląda proces mentoringu młodszych stażem lub nowych członków zespołu?
 
 ## Projekt
-- Proszę mi opisać projekt, który będę podejmował. (domena, technologie, ci/cd)
+- Proszę mi opisać projekt, który będę podejmował. (domena, technologie, architektura, ci/cd)
 - Z czego wynika wakat na tym stanowisku? Z czego wynika rekrutacja na to stanowisko? Czy wynika to z chęci tymczasowego zastąpienia poprzedniego programisty?
 - Jakich wyzwań mogę się spodziewać na tym stanowisku? Jakie są oczekiwania wobec mojej osoby w projekcie?
 - W jaki sposób klienci wykorzystują rozwijane narzędzie?
