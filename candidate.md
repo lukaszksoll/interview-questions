@@ -31,6 +31,7 @@
 - Jak wiele spotkań projektowych odbywa się w tygodniu?
 - Jaka jest rotacja pracowników w projekcie?
 - Jak wygląda proces w sytuacjach kryzysowych? Czy stosuje się podejście "rzucamy wszystko i naprawiamy"?
+- Jak często następuje release aplikacji?
 
 ## Technikalia
 - Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git, SonarQube, NDepend)
