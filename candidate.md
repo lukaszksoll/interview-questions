@@ -32,6 +32,7 @@
 - Jaka jest rotacja pracowników w projekcie?
 - Jak wygląda proces w sytuacjach kryzysowych? Czy stosuje się podejście "rzucamy wszystko i naprawiamy"?
 - Jak często następuje release aplikacji?
+- Kto zajmuje się supportem?
 
 ## Technikalia
 - Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git, SonarQube, NDepend)
@@ -44,6 +45,7 @@
 - Jak zorganizowany jest CI/CD?
 - Jak dużą autonomię mają developerzy wobec zmian w projekcie? Jak wyglądałaby potencjalna istotna zmiana w projekcie? Z iloma osobami/z jakiego szczebla musiałbym się skomunikować?
 - Jak wygląda dokumentacja projektowa? Jak udkomentowany jest kod programu?
+- Jak zarządzany jest kod aplikacji? Jak weryfikowana jest jego jakość?
 
 ## System pracy
 - W jakich godzinach odbywa się daily?
@@ -56,6 +58,7 @@
 - Jakie firma ma opracowane sposoby/narzędzia radzenia sobie z opóźnieniami w projekcie?
 - Czy i jak firma unika nadgodzin?
 - Jak wygląda możliwość zmiany projektu?
+- Czy można wychodzić w trakcie pracy? - Np. w sytuacji awaryjnej gdy trzeba załatwić sprawy prywatne, pojechać do lekarza itd.. Potem taką zaległość odrobić w innym terminie?
 
 ## Firma
 - Jakie są możliwości rozwoju?
@@ -68,9 +71,12 @@
 - Jak często trzeba pojawić się w biurze?
 - Jak wygląda proces obsługi problemów sprzętowych w przypadku pracy zdalnej?
 - Jakie jest podejście do dłuższych urlopów? Bezpłatnych urlopów?
+-  Jak często rozpoczynają się nowe projekty? Czy firma jest głównym wykonawcą? Czy realizuje własne projekty?
+-  Jak długo realizuje się przeciętny projekt w firmie? Jeśli czas jest trudny do podania mile widziany jest przedział czasowy.
 
 ## Ewaluacja
 - Jak wygląda proces oceniania efektywności pracownika? Jakie wskaźniki brane są pod uwagę przy premii/awansie na stanowisku, na które aplikuję?
+- Jak wygląda kontakt z przełożonym, jak często odbywają się oficjalne spotkania z przełożonymi?
 - Jak często przeprowadzane są rozmowy podsumowujące wyniki pracy i w jakim stopniu przekładają się one na plan rozwoju pracownika?
 - Jak wygląda system premiowy w Państwa firmie?
 - Czy są przeprowadzane spotkania 1:1 z managerem?
@@ -79,3 +85,7 @@
 - Kiedy można spodziewać się informacji zwrotnej?
 - Czy przewidują Państwo dalsze etapy rekrutacji? Jeżeli tak, to jak będzie wyglądał każdy poszczególny etap?
 - Kiedy planują Państwo podjąć ostateczną decyzję?
+
+#### Refs
+- https://github.com/Twipped/InterviewThis
+- https://www.freecodecamp.org/news/how-to-interview-as-a-developer-candidate-b666734f12dd
