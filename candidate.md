@@ -17,6 +17,7 @@
 - Jaka jest rotacja w zespole? Jakie są plany na zespół?
 - Proszę mi opowiedzieć o moim przyszłym zespole — np. z jakimi działami najbliżej współpracuje, czy będzie dalej rozwijany, jaki jest przewidywany czas trwania projektu?
 - Jak wygląda proces mentoringu młodszych stażem lub nowych członków zespołu?
+- Czy zespół ma własną przestrzeń w biurze?
 
 ## Projekt
 - Proszę mi opisać projekt, który będę podejmował. (domena, technologie, architektura, ci/cd)
@@ -31,6 +32,7 @@
 - Jak wygląda proces w sytuacjach kryzysowych? Czy stosuje się podejście "rzucamy wszystko i naprawiamy"?
 - Jak często następuje release aplikacji?
 - Kto zajmuje się supportem?
+- Jak często Twój zespół musi synchronizować się z innymi projektami?
 
 ## Technikalia
 - Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git, SonarQube, NDepend)
