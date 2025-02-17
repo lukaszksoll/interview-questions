@@ -61,6 +61,7 @@
 - Czy można wychodzić w trakcie pracy? - Np. w sytuacji awaryjnej gdy trzeba załatwić sprawy prywatne, pojechać do lekarza itd.. Potem taką zaległość odrobić w innym terminie?
 
 ## Firma
+- Co lubisz/czego nie lubisz w pracy w tej firmie?
 - Jakie są możliwości rozwoju?
 - Jakie są możliwe ścieżki kariery na tym stanowisku?
 - Jakie przysługują benefity? Pakiet zdrowotny? Dodatkowe dni urlopu? Dofinansowania do pracy zdalnej?
