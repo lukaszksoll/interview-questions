@@ -71,8 +71,9 @@
 - Jak często trzeba pojawić się w biurze?
 - Jak wygląda proces obsługi problemów sprzętowych w przypadku pracy zdalnej?
 - Jakie jest podejście do dłuższych urlopów? Bezpłatnych urlopów?
--  Jak często rozpoczynają się nowe projekty? Czy firma jest głównym wykonawcą? Czy realizuje własne projekty?
--  Jak długo realizuje się przeciętny projekt w firmie? Jeśli czas jest trudny do podania mile widziany jest przedział czasowy.
+- Jak często rozpoczynają się nowe projekty? Czy firma jest głównym wykonawcą? Czy realizuje własne projekty?
+- Jak długo realizuje się przeciętny projekt w firmie? Jeśli czas jest trudny do podania mile widziany jest przedział czasowy.
+- Parking w firmie
 
 ## Ewaluacja
 - Jak wygląda proces oceniania efektywności pracownika? Jakie wskaźniki brane są pod uwagę przy premii/awansie na stanowisku, na które aplikuję?
