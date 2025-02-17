@@ -7,6 +7,7 @@
 - Jakie narzędzia są wykorzystywane do zarządzania projektem?
 - Jak wygląda typowy dzień/tydzień pracy na tym stanowisku w tym projekcie?
 - Jak wygląda proces komunikacji w projekcie/firmie? Czy przeważa komunikacja mailowa czy via Teams?
+- Jak wygląda okres wdrożenia na stanowisko?
 
 ## Zespół
 - Jaki jest skład zespołu?
@@ -15,8 +16,6 @@
 - Ile jest QA w zespole?
 - Jaka jest rotacja w zespole? Jakie są plany na zespół?
 - Proszę mi opowiedzieć o moim przyszłym zespole — np. z jakimi działami najbliżej współpracuje, czy będzie dalej rozwijany, jaki jest przewidywany czas trwania projektu?
-- Rodzaj pierwszej podpisywanej umowy? Czy jest to umowa na czas określony? Kiedy następuje podpisanie umowy na czas nieokreślony?
-- Jak wygląda okres wdrożenia na stanowisko?
 - Jak wygląda proces mentoringu młodszych stażem lub nowych członków zespołu?
 
 ## Projekt
@@ -24,7 +23,6 @@
 - Z czego wynika wakat na tym stanowisku? Z czego wynika rekrutacja na to stanowisko? Czy wynika to z chęci tymczasowego zastąpienia poprzedniego programisty?
 - Jakich wyzwań mogę się spodziewać na tym stanowisku? Jakie są oczekiwania wobec mojej osoby w projekcie?
 - W jaki sposób klienci wykorzystują rozwijane narzędzie?
-- Jakie są możliwe ścieżki kariery na tym stanowisku?
 - Na jakie technologie stawia firma pod kątem tego projektu?
 - Z jakimi trudnościami obecnie zmaga się zespół w projekcie?
 - Jak wygląda system transferu wiedzy domenowej/technicznej w projekcie?
@@ -62,6 +60,7 @@
 
 ## Firma
 - Jakie są możliwości rozwoju?
+- Jakie są możliwe ścieżki kariery na tym stanowisku?
 - Jakie przysługują benefity? Pakiet zdrowotny? Dodatkowe dni urlopu? Dofinansowania do pracy zdalnej?
 - Czy przysługują mi dofinansowania do sprzętu?
 - Jaki sprzęt otrzymam do codziennej pracy? (Słuchawki, laptop, peryferia)
@@ -79,6 +78,7 @@
 - Różnice w benefitach oraz warunkach zatrudnienia UoP vs B2B
 - Urlop na B2B
 - Godzinówka czy stała kwota na B2B
+- Rodzaj pierwszej podpisywanej umowy? Czy jest to umowa na czas określony? Kiedy następuje podpisanie umowy na czas nieokreślony?
 
 ## Ewaluacja
 - Jak wygląda proces oceniania efektywności pracownika? Jakie wskaźniki brane są pod uwagę przy premii/awansie na stanowisku, na które aplikuję?
