@@ -75,6 +75,11 @@
 - Jak długo realizuje się przeciętny projekt w firmie? Jeśli czas jest trudny do podania mile widziany jest przedział czasowy.
 - Parking w firmie
 
+## Forma zatrudnienia
+- Różnice w benefitach oraz warunkach zatrudnienia UoP vs B2B
+- Urlop na B2B
+- Godzinówka czy stała kwota na B2B
+
 ## Ewaluacja
 - Jak wygląda proces oceniania efektywności pracownika? Jakie wskaźniki brane są pod uwagę przy premii/awansie na stanowisku, na które aplikuję?
 - Jak wygląda kontakt z przełożonym, jak często odbywają się oficjalne spotkania z przełożonymi?
