@@ -28,7 +28,6 @@
 - What difficulties is the team currently facing in the project?  
 - How is domain-specific or technical knowledge transferred within the project?  
 - How many project meetings are held per week?  
-- What is the employee turnover rate in the project?  
 - How is crisis management handled? Is there a "drop everything and fix it" approach?  
 - How frequently is the application released?  
 - Who handles support and maintenance?  
