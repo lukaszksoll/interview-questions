@@ -54,7 +54,7 @@
 - What is the company's policy regarding copyright tax benefits?  
 - Is it possible to transfer unused vacation time from a previous employer?  
 - What work model does the team follow — remote, hybrid, or on-site? How are business trips handled?  
-- What methods or tools does the company use to deal with project delays?  
+- What methods does the company use to deal with project delays?  
 - How does the company avoid overtime work?  
 - What is the process for changing projects internally?  
 - Is it possible to step out during work hours — for example, in an emergency or to visit a doctor — and make up the time later?
