@@ -32,7 +32,7 @@
 - Jak wygląda proces w sytuacjach kryzysowych? Czy stosuje się podejście "rzucamy wszystko i naprawiamy"?
 - Jak często następuje release aplikacji?
 - Kto zajmuje się supportem?
-- Jak często Twój zespół musi synchronizować się z innymi projektami?
+- Jak często zespół musi synchronizować się z innymi projektami?
 
 ## Technikalia
 - Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git, SonarQube, NDepend)
