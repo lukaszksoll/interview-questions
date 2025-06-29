@@ -35,7 +35,7 @@
 - Jak często zespół musi synchronizować się z innymi projektami?
 
 ## Technikalia
-- Z jakich narzędzi korzystają programiści? (R#, dotMemory, jaka wersja Visual Studio, git, SonarQube, NDepend)
+- Z jakich narzędzi korzystają programiści? (R#, IDE, Git, SonarQube, NDepend, Copilot, AI)
 - Jakie biblioteki wykorzystuje projekt? (Kontrolki, testy, mvvm, IoC)
 - Jakie są ogólne konwencje kodowania w projekcie?
 - Jak wygląda struktura testów w projekcie? Jak wygląda piramida testów?
