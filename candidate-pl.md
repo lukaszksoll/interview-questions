@@ -11,6 +11,7 @@
 
 ## Zespół
 - Jaki jest skład zespołu?
+- Z czego wynika wakat na tym stanowisku? Z czego wynika rekrutacja na to stanowisko? Czy wynika to z chęci tymczasowego zastąpienia poprzedniego programisty?
 - Jakie są odpowiedzialności poszczególnych osób?
 - Jakie jest seniority zespołowe?
 - Ile jest QA w zespole?
@@ -20,8 +21,7 @@
 - Czy zespół ma własną przestrzeń w biurze?
 
 ## Projekt
-- Proszę mi opisać projekt, który będę podejmował. (domena, technologie, architektura, ci/cd)
-- Z czego wynika wakat na tym stanowisku? Z czego wynika rekrutacja na to stanowisko? Czy wynika to z chęci tymczasowego zastąpienia poprzedniego programisty?
+- Opis projektu (domena, technologie, architektura, ci/cd)
 - Jakich wyzwań mogę się spodziewać na tym stanowisku? Jakie są oczekiwania wobec mojej osoby w projekcie?
 - W jaki sposób klienci wykorzystują rozwijane narzędzie?
 - Na jakie technologie stawia firma pod kątem tego projektu?
