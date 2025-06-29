@@ -4,6 +4,7 @@
 - Jak wygląda proces? 
 - Kto definiuje wymagania?
 - Jak wyglądają Scrum meetingi? Czy odbywają się sesje planowania, estymacji, retrospektywy?
+- Jak wiele spotkań projektowych odbywa się w tygodniu?
 - Jakie narzędzia są wykorzystywane do zarządzania projektem?
 - Jak wygląda typowy dzień/tydzień pracy na tym stanowisku w tym projekcie?
 - Jak wygląda proces komunikacji w projekcie/firmie? Czy przeważa komunikacja mailowa czy via Teams?
@@ -27,7 +28,6 @@
 - Na jakie technologie stawia firma pod kątem tego projektu?
 - Z jakimi trudnościami obecnie zmaga się zespół w projekcie?
 - Jak wygląda system transferu wiedzy domenowej/technicznej w projekcie?
-- Jak wiele spotkań projektowych odbywa się w tygodniu?
 - Jaka jest rotacja pracowników w projekcie?
 - Jak wygląda proces w sytuacjach kryzysowych? Czy stosuje się podejście "rzucamy wszystko i naprawiamy"?
 - Jak często następuje release aplikacji?
